@@ -1,4 +1,8 @@
-# sped-da
+# Custom sped-da
+
+## Updates on class src/Nfe/Danfce.php
+> Fix da class para exibição da listagem de pagamentos correta no PDF do layout 4.0
+> Inclusão das tags de infoAdic no layout do PDF 4.0
 
 Classes para geração dos documentos auxiliares usados pelos padrões Sped
 
